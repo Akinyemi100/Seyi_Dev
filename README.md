@@ -1,2 +1,1 @@
-# Seyi_Dev
-Sey_Dev,a home of Great Developers! 
+My first readme
